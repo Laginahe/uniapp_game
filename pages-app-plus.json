@@ -1,0 +1,295 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/login",
+			"style": {
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationStyle": "custom"
+			},
+			"disableScroll": true
+		},
+		{
+			"path": "pages/home/components/qrcode",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+
+		{
+			"path": "pages/home/gameroom/tuibiji",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/home/gameroom/baobaole",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			},
+			"globalStyle": {
+				"pageOrientation": "auto"
+			}
+		},
+		{
+			"path": "pages/category/category",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			},
+			"disableScroll": true
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			},
+			"disableScroll": true
+		},
+		{
+			"path": "pages/shop/shop",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/coins/coins",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/mail/mail",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/vip/vip",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/records",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/level",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/mycoupon",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/invite",
+			"style": {
+				"navigationBarTitleText": "邀请好友"
+			}
+		},
+		{
+			"path": "pages/my/components/Friendcode",
+			"style": {
+				"navigationBarTitleText": "好友推荐码"
+			}
+		},
+		{
+			"path": "pages/my/components/giftsmall",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/Computerrecording",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/about/about",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/about/commonproblem",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/about/useragreement",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/about/privacypolicy",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/about/details",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/Customerservice",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/my/components/Settings",
+			"style": {
+				"navigationBarTitleText": "闪耀街机",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}
+	],
+
+	"tabBar": {},
+	"condition" : { 
+		"current": 0, 
+		"list": [
+			{
+				"name": "h5", 
+				"path": "pages/login/login", 
+				"query": "" 
+			},
+			{
+				"name": "mp-weixin", 
+				"path": "pages/login/login", 
+				"query": "" 
+			},
+			{
+				"name": "mp-alipay", 
+				"path": "pages/login/login", 
+				"query": "" 
+			},
+			{
+				"name": "app-plus",
+				"path": "pages/login/login",
+				"query": ""
+			}
+		]
+	},
+	"easycom": {
+			"autoscan": true,
+			"custom": {
+				"^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+			}
+	},
+	"h5": {
+		"titleNView": false
+	}
+}
